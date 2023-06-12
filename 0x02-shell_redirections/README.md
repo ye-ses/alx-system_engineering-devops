@@ -1,7 +1,8 @@
 This directory contains files that excecutes I/O redirections.
 
-The hello_word file just prints "hello,world". 
-The confused_smiley prints the confused smiley.
-The hellofile file prints the contents of the passwd file in the /etc directory. 
+The 0-hello_word file just prints "hello,world". 
+The 1-confused_smiley prints the confused smiley.
+The 2-hellofile file prints the contents of the passwd file in the /etc directory. 
 The 3-twofiles prints the contents of passwd and hosts in the /etc directory.
-The lastlines file prints the tail(10 last lines) of the passwd file in the /etc directory.
+The 4-lastlines file prints the tail(10 last lines) of the passwd file in the /etc directory.
+The 5-firstlines file prints the first 10 lines of the passwd file in the /etc directory when executed.

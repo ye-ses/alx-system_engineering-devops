@@ -10,3 +10,4 @@ The 6-third_line file prints only the third line of the iacta file when executed
 the character file was added-shit
 updated readme file and added cwd state file
 the 9th file duplicates the last line of the file
+adding the 10th file to the directory

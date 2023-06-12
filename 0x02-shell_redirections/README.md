@@ -8,3 +8,4 @@ The 4-lastlines file prints the tail(10 last lines) of the passwd file in the /e
 The 5-firstlines file prints the first 10 lines of the passwd file in the /etc directory when executed.
 The 6-third_line file prints only the third line of the iacta file when executed.
 the character file was added-shit
+updated readme file and added cwd state file

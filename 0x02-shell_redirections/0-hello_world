@@ -1,0 +1,2 @@
+#!/bin/bash
+zsh % print "Hello, World"

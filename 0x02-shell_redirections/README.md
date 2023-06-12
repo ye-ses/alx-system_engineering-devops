@@ -17,3 +17,4 @@ The 13th file sorts and displays contents of the file.
 The 14th file lists lines containing a given specific word in a file
 The 15th file displays line that has the provided pattern
 The 16th file displays lines containing the word root and 3 lines after them
+The 17th file lists all files that do not contain the word bin.

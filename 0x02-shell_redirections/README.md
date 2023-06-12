@@ -12,3 +12,4 @@ updated readme file and added cwd state file
 the 9th file duplicates the last line of the file
 adding the 10th file to the directory
 11th file counts directories in the current folder
+The 12th file prints the current directory files sorted from newest

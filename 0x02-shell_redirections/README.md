@@ -11,3 +11,4 @@ the character file was added-shit
 updated readme file and added cwd state file
 the 9th file duplicates the last line of the file
 adding the 10th file to the directory
+11th file counts directories in the current folder

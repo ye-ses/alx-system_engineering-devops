@@ -1,6 +1,6 @@
-This directory has files containing I/O redrecions commands
+This directory contains files that excecutes I/O redirections.
 
-
-
-The file 0-hello_world contains command to print hello,world.
-The file 1-confused_smiley prints a confused smiley when executede
+The hello_word file just prints "hello,world" 
+The confused_smiley prints the confused smiley 
+The hellofile file prints the contents of the passwd file in the /etc directory 
+The 3-teofiles prints the contents of passwd and hosts in the /etc directory

@@ -1,2 +1,2 @@
 #!/bin/bash
-zsh % print "Hello, World"
+printf "%s\n" "Hello, World"

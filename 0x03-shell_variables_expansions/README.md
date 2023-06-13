@@ -9,3 +9,4 @@ The 7th file exports a global variable
 The 8th file makes use of arithmetic operations and use of variables
 The 9th file makes use of the local variables to perform calculations
 The10th file calculates the power of a variable to another
+The 11th file converts a number from binary to decimal

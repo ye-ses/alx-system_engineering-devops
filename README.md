@@ -1,4 +1,4 @@
-This file will contain files about I/O redirectories.
+The directories in here explore what we can do with shell
 
 
-The first file 0-hello_world contains a command to print hello world to the standard output
+The directory names are self explainable
